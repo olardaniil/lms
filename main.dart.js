@@ -44640,15 +44640,12 @@ $1(a){this.a.f.n(0,"password",a)
 return a},
 $S:24}
 A.asv.prototype={
-$0(){var s=0,r=A.J(t.H),q,p=this,o,n
+$0(){var s=0,r=A.J(t.H),q,p=this,o
 var $async$$0=A.D(function(a,b){if(a===1)return A.G(b,r)
-while(true)switch(s){case 0:n=p.a
-if(!n.e.gN().C9()){s=1
-break}o=n.f
-o.n(0,"email","olardaniil@mts.ru")
-o.n(0,"password","12345678")
-s=3
-return A.E(n.a.d.vN(o),$async$$0)
+while(true)switch(s){case 0:o=p.a
+if(!o.e.gN().C9()){s=1
+break}s=3
+return A.E(o.a.d.vN(o.f),$async$$0)
 case 3:if(b)A.jG(p.b,!1).f.BI(B.eX,new A.aso(),t.X)
 case 1:return A.H(q,r)}})
 return A.I($async$$0,r)},
