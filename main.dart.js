@@ -45586,7 +45586,7 @@ return this.a.uC(b)},
 $S:452}
 A.axn.prototype={
 $2(a,b){var s,r,q,p=null,o=this.b.d,n=o.d,m=n[b]
-switch(m.b){case"\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 - url":o="http://127.0.0.1:8080/api/assets/?uri="+m.c
+switch(m.b){case"\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 - url":o="https://lms.ui-platform.ru/api/assets/?uri="+m.c
 return new A.by(B.cN,A.aF2(A.cR(10),new A.L6(new A.le(p,o,p,1,p,p,p,p,B.MV),o,B.dX,p)),p)
 case"\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a":o=A.O(a).p2.r
 o=o==null?p:o.qK(B.bq)
