@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "b8f887559215e8513ab09e10935a1b0f",
+const RESOURCES = {"flutter_bootstrap.js": "1d92a68b4aa9b63eed123edff04be681",
 "version.json": "e0baf117d147e462453f22e1de1e586e",
 "index.html": "59242d7c1f108182062ee418751ed71c",
 "/": "59242d7c1f108182062ee418751ed71c",
-"main.dart.js": "7a45cae957991b4e3768f73dfd2afe6b",
+"main.dart.js": "abdd205eeb4b4f4382e793263ecf8db6",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
 "favicon.png": "e84d7f1fae3185205dacb05bd20679cb",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -28,7 +28,7 @@ const RESOURCES = {"flutter_bootstrap.js": "b8f887559215e8513ab09e10935a1b0f",
 "assets/assets/images/img-2.png": "d7a0d30085c4b0e5901912ad6fd4c6e0",
 "assets/assets/images/img-1.png": "8b1f9b3a0b36b665b891f6405b9b8b51",
 "assets/assets/images/logo.png": "371bd8517c0d3fce1146a27e9de051ec",
-"assets/assets/images/compliance-learn-banner.png": "aacdf7083e51cca7a5b464f347427d86",
+"assets/assets/images/compliance-learn-banner.png": "84fd5030510ec668af2a7a8f3bbe3202",
 "assets/assets/icons/check-mark-green.png": "74996e2cd1ccde60bd2260a682ef29d2",
 "assets/assets/icons/check-mark-grey.png": "97540c6b4dc8be2e709347f3db2c9b44",
 "assets/assets/icons/check-mark-purple.png": "76ea7940249e90a9a19e62bd2ac0c2f9",
